@@ -5,7 +5,7 @@ pick a name randomly
 1)download the programe in release.
 
 2)run `Pick\out\artifacts\Pick_jar\boot.vbs` to boot this programe
-#How to quit
+# How to quit
 right click the float window and press`Quit`
 
 # How to customize?
