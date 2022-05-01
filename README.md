@@ -1,6 +1,6 @@
 # Pick_V3.x
 pick a name randomly
-![image]https://github.com/57UU/Pick_V3.x/blob/main/example.png
+![image](https://github.com/57UU/Pick_V3.x/blob/main/example.png)
 # How to use?
 1)download the programe in release.
 2)run `Pick\out\artifacts\Pick_jar\boot.vbs` to boot this programe
