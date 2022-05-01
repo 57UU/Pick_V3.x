@@ -5,6 +5,9 @@ pick a name randomly
 1)download the programe in release.
 
 2)run `Pick\out\artifacts\Pick_jar\boot.vbs` to boot this programe
+#How to quit
+right click the float window and press`Quit`
+
 # How to customize?
 in `out\artifacts\Pick_jar` folder exists files called`names.txt`and 'Config.json'.
 
